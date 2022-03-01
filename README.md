@@ -3,27 +3,30 @@ Send to WhatsApp Message &amp; Media  Automate [ DONT USE SELENIUME !!! ]  Fast 
 
 Wroked in Any System
 
-INSTALL {
 
-use Python3 
+## Installation and Supported Versions
 
+WhatsAppmsg officially supports Python 3.8+.
+```bash
+https://github.com/Alireza-Hajizadeh/WhatsAppmsg.git
+```
+```bash
+cd WhatsAppmsg
+```
+```bash
 pip install requirement.txt
+```
 
-}
+## Usage
 
-USAGE {
-
-
-Download Script 
-Open folder in Terminal
-Type :
-
+Download Script and Open folder in Terminal and type
+```bash
 Python3 Start.py
-
+```
 
 }
 
-
+# Links
 Follow me : 
 Instagram @off.hz
 Whatsapp +989902128242
