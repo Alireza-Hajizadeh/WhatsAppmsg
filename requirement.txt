@@ -1,0 +1,10 @@
+pyfiglet
+subprocess
+webbrowser
+pyautogui
+pywhatkit
+urllib
+typing
+datetime
+
+
