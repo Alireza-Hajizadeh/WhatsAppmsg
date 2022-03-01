@@ -1,10 +1,6 @@
 pyfiglet
 subprocess.run
-webbrowser
 pyautogui
 pywhatkit
-urllib
-typing
-datetime
 
 
