@@ -22,3 +22,9 @@ Python3 Start.py
 
 
 }
+
+
+Follow me : 
+Instagram @off.hz
+Whatsapp +989902128242
+telegram https://t.me/yzdn_play
