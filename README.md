@@ -7,13 +7,7 @@ INSTALL {
 
 use Python3 
 
-pip install subprocess
-pip install webbrowser
-pip install pyautogui
-pip install pywhatkit
-pip install urllib
-pip install typing
-pip install datetime
+pip install subprocess webbrowser pyautogui pywhatkit urllib typing datetime
 
 
 }
