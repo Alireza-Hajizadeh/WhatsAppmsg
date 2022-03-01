@@ -7,8 +7,7 @@ INSTALL {
 
 use Python3 
 
-pip install subprocess webbrowser pyautogui pywhatkit urllib typing datetime pyfiglet
-
+pip install requirement.txt
 
 }
 
