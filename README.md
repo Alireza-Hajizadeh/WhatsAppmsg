@@ -8,13 +8,13 @@ Wroked in Any System
 
 WhatsAppmsg officially supports Python 3.8+.
 ```bash
-https://github.com/Alireza-Hajizadeh/WhatsAppmsg.git
+git clone https://github.com/Alireza-Hajizadeh/WhatsAppmsg.git
 ```
 ```bash
 cd WhatsAppmsg
 ```
 ```bash
-pip install requirement.txt
+pip install -r requirement.txt
 ```
 
 ## Usage
