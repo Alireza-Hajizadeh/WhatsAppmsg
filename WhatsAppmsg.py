@@ -1,11 +1,14 @@
 import time
 import webbrowser as web
 import pyautogui as pg
+import subprocess
 #lib Import
 from datetime import datetime
 from typing import Optional
 from urllib.parse import quote
 from pywhatkit.core import core, exceptions, log
+
+subprocess.call('clear', shell=True)
 
 pg.FAILSAFE = False
 core.check_connection()
